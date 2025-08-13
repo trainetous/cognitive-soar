@@ -1,0 +1,39 @@
+2025-08-13 02:53:49,071:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:53:49,071:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:53:49,071:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:53:49,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:54:02,785:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:54:02,785:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:54:02,785:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:54:02,785:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 02:54:03,654:INFO:Initializing load_model()
+2025-08-13 02:54:03,654:INFO:load_model(model_name=models/phishing_url_detector, platform=None, authentication=None, verbose=True)
+2025-08-13 02:54:03,903:INFO:Initializing load_model()
+2025-08-13 02:54:03,903:INFO:load_model(model_name=models/threat_actor_profiler, platform=None, authentication=None, verbose=True)
+2025-08-13 02:55:26,248:INFO:Initializing predict_model()
+2025-08-13 02:55:26,249:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0xffff2a1b2e10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['url_length', 'special_chars',
+                                             'ip_in_url', 'subdomains',
+                                             'dots_in_url', 'path_length',
+                                             'has_query_string', 'has_redirect',
+                                             'digit_count', 'tld_is_short'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 RandomForestClassifier(class_weight={0: 1, 1: 2}, n_jobs=-1,
+                                        random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0xffff23f13420>)
+2025-08-13 02:55:26,249:INFO:Checking exceptions
+2025-08-13 02:55:26,249:INFO:Preloading libraries
+2025-08-13 02:55:26,251:INFO:Set up data.
+2025-08-13 02:55:26,255:INFO:Set up index.

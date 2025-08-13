@@ -1,0 +1,601 @@
+label,url_length,special_chars,ip_in_url,subdomains,dots_in_url,path_length,has_query_string,has_redirect,digit_count,tld_is_short,true_actor_profile
+1,67,14,0,4,4,39,1,1,9,1,State-Sponsored
+1,86,12,0,4,6,35,1,1,9,0,State-Sponsored
+1,99,13,0,3,6,35,1,1,14,0,State-Sponsored
+1,65,14,0,3,4,43,1,1,7,1,State-Sponsored
+1,65,14,0,4,6,37,0,0,8,1,State-Sponsored
+1,85,11,0,4,5,40,1,1,9,0,State-Sponsored
+1,74,16,0,3,4,40,1,1,10,1,State-Sponsored
+1,72,10,0,3,6,39,1,0,6,0,State-Sponsored
+1,82,15,0,3,7,41,1,1,9,0,State-Sponsored
+1,93,14,0,4,6,54,0,1,6,1,State-Sponsored
+1,94,13,0,3,7,58,1,1,12,1,State-Sponsored
+1,66,13,0,3,4,56,1,1,7,0,State-Sponsored
+1,81,12,0,3,7,31,1,1,5,0,State-Sponsored
+1,67,16,0,4,4,54,1,1,6,1,State-Sponsored
+1,93,16,0,3,5,57,1,1,8,0,State-Sponsored
+1,94,11,0,3,7,58,1,1,13,1,State-Sponsored
+1,70,10,0,4,4,56,1,1,5,1,State-Sponsored
+1,70,12,0,3,5,33,0,0,11,1,State-Sponsored
+1,82,12,0,3,5,46,1,0,13,0,State-Sponsored
+1,91,14,0,3,5,51,1,0,7,0,State-Sponsored
+1,80,10,0,3,5,44,1,1,9,1,State-Sponsored
+1,70,14,0,4,6,47,1,1,10,1,State-Sponsored
+1,91,11,0,3,5,36,0,1,13,0,State-Sponsored
+1,95,15,0,3,5,47,1,1,5,1,State-Sponsored
+1,84,10,0,3,6,39,1,1,8,1,State-Sponsored
+1,67,12,0,4,4,42,1,1,7,1,State-Sponsored
+1,76,16,0,3,7,57,1,1,13,1,State-Sponsored
+1,73,18,0,4,6,53,1,1,13,0,State-Sponsored
+1,99,19,0,3,6,42,0,1,6,1,State-Sponsored
+1,63,18,0,4,6,41,1,1,9,1,State-Sponsored
+1,88,13,0,3,4,39,1,1,14,0,State-Sponsored
+1,96,19,0,3,4,56,1,1,7,0,State-Sponsored
+1,98,15,0,3,4,32,1,1,12,0,State-Sponsored
+1,95,12,0,4,6,57,1,0,8,0,State-Sponsored
+1,81,12,0,4,4,56,1,1,9,1,State-Sponsored
+1,86,17,0,4,5,49,0,1,13,1,State-Sponsored
+1,81,12,0,4,6,45,1,1,10,0,State-Sponsored
+1,93,13,0,4,6,43,1,1,9,0,State-Sponsored
+1,88,14,0,3,5,41,1,1,12,0,State-Sponsored
+1,95,19,0,3,4,43,0,0,8,1,State-Sponsored
+1,69,10,0,3,5,35,1,1,5,0,State-Sponsored
+1,97,15,0,4,7,32,1,1,11,1,State-Sponsored
+1,78,18,0,4,4,44,1,1,9,1,State-Sponsored
+1,93,18,0,4,4,51,1,1,5,1,State-Sponsored
+1,60,15,0,4,6,39,1,1,12,1,State-Sponsored
+1,80,10,0,3,4,41,1,1,12,1,State-Sponsored
+1,87,15,0,4,5,43,1,1,9,0,State-Sponsored
+1,61,15,0,3,4,38,0,1,12,1,State-Sponsored
+1,87,19,0,3,6,48,1,1,9,0,State-Sponsored
+1,62,14,0,3,5,42,0,1,13,0,State-Sponsored
+1,86,18,0,4,6,33,1,1,11,0,State-Sponsored
+1,78,17,0,3,7,43,1,1,6,1,State-Sponsored
+1,82,19,0,3,6,48,1,1,9,0,State-Sponsored
+1,73,13,0,3,4,32,1,1,12,1,State-Sponsored
+1,97,16,0,4,5,50,1,1,8,0,State-Sponsored
+1,97,10,0,4,4,43,1,1,9,1,State-Sponsored
+1,63,17,0,3,5,57,1,1,8,1,State-Sponsored
+1,90,19,0,3,6,33,0,1,9,1,State-Sponsored
+1,85,14,0,4,5,44,1,1,9,1,State-Sponsored
+1,99,11,0,4,6,57,1,1,14,1,State-Sponsored
+1,99,17,0,4,5,53,1,1,9,1,State-Sponsored
+1,70,13,0,3,6,56,1,1,12,0,State-Sponsored
+1,97,12,0,3,4,53,1,1,8,1,State-Sponsored
+1,97,15,0,3,6,34,1,1,9,1,State-Sponsored
+1,65,10,0,3,7,46,1,1,13,1,State-Sponsored
+1,95,11,0,3,7,42,1,1,11,1,State-Sponsored
+1,78,12,0,3,4,32,1,1,14,0,State-Sponsored
+1,74,17,0,3,7,44,0,1,14,1,State-Sponsored
+1,81,18,0,4,6,48,1,1,10,1,State-Sponsored
+1,94,19,0,3,4,42,1,1,7,1,State-Sponsored
+1,81,11,0,3,4,34,1,1,12,1,State-Sponsored
+1,63,18,0,4,4,36,1,1,10,1,State-Sponsored
+1,98,19,0,4,4,39,0,1,10,1,State-Sponsored
+1,67,18,0,3,7,30,1,1,9,0,State-Sponsored
+1,79,17,0,3,4,35,1,1,7,0,State-Sponsored
+1,95,17,0,3,7,46,1,1,9,1,State-Sponsored
+1,99,11,0,4,5,31,1,1,13,0,State-Sponsored
+1,66,19,0,3,4,52,1,1,13,0,State-Sponsored
+1,80,16,0,3,5,41,0,0,7,0,State-Sponsored
+1,86,14,0,3,4,56,1,1,7,0,State-Sponsored
+1,91,10,0,4,6,31,0,1,7,1,State-Sponsored
+1,88,10,0,4,6,48,1,1,14,0,State-Sponsored
+1,83,19,0,3,4,43,0,1,8,1,State-Sponsored
+1,98,15,0,4,6,33,1,1,7,0,State-Sponsored
+1,71,14,0,4,6,45,1,1,8,1,State-Sponsored
+1,66,14,0,3,4,34,1,1,11,1,State-Sponsored
+1,97,17,0,4,5,50,1,0,6,1,State-Sponsored
+1,72,13,0,4,5,48,0,1,7,1,State-Sponsored
+1,81,19,0,3,7,38,0,0,14,0,State-Sponsored
+1,94,16,0,3,4,51,1,1,5,0,State-Sponsored
+1,96,10,0,4,6,49,1,1,5,0,State-Sponsored
+1,77,16,0,4,6,38,1,0,9,0,State-Sponsored
+1,84,14,0,3,6,42,0,1,6,1,State-Sponsored
+1,87,17,0,4,4,42,1,0,11,1,State-Sponsored
+1,64,13,0,3,5,51,1,0,14,0,State-Sponsored
+1,84,11,0,4,4,59,1,1,12,0,State-Sponsored
+1,61,15,0,3,6,36,1,1,5,0,State-Sponsored
+1,73,12,0,3,7,38,0,1,7,1,State-Sponsored
+1,91,14,0,4,6,45,1,1,8,1,State-Sponsored
+1,82,18,0,3,7,47,1,1,10,1,State-Sponsored
+1,66,17,0,4,5,30,1,1,6,1,State-Sponsored
+1,88,19,0,4,7,33,0,0,5,0,State-Sponsored
+1,99,17,0,4,6,41,1,1,14,0,State-Sponsored
+1,87,15,0,4,7,37,0,1,14,1,State-Sponsored
+1,83,11,0,4,6,51,1,1,13,1,State-Sponsored
+1,95,16,0,4,4,59,1,1,11,1,State-Sponsored
+1,91,10,0,4,6,31,1,1,10,1,State-Sponsored
+1,74,12,0,3,7,39,1,1,10,0,State-Sponsored
+1,69,14,0,4,5,40,1,0,10,0,State-Sponsored
+1,98,19,0,3,4,45,1,1,8,1,State-Sponsored
+1,63,17,0,4,7,55,1,1,8,1,State-Sponsored
+1,66,19,0,3,7,46,1,0,5,0,State-Sponsored
+1,74,15,0,4,5,32,1,1,12,0,State-Sponsored
+1,87,19,0,4,6,44,1,1,8,1,State-Sponsored
+1,71,14,0,4,7,54,1,1,14,1,State-Sponsored
+1,95,11,0,3,6,49,1,1,11,0,State-Sponsored
+1,93,16,0,3,5,51,1,1,7,0,State-Sponsored
+1,70,16,0,4,6,42,1,0,7,0,State-Sponsored
+1,72,14,0,4,4,39,1,1,7,0,State-Sponsored
+1,69,14,0,3,5,32,1,1,14,0,State-Sponsored
+1,79,11,1,2,6,32,1,1,9,0,Organized Crime
+1,78,12,1,3,3,29,0,0,13,1,Organized Crime
+1,80,14,1,3,4,49,1,0,13,0,Organized Crime
+1,86,14,1,2,3,26,1,1,9,1,Organized Crime
+1,57,14,1,2,5,30,1,1,15,1,Organized Crime
+1,81,11,1,2,6,47,1,0,10,1,Organized Crime
+1,63,11,1,2,4,33,0,0,15,0,Organized Crime
+1,82,12,1,2,4,25,1,0,11,1,Organized Crime
+1,78,10,1,2,4,37,1,1,9,0,Organized Crime
+1,58,11,1,2,5,48,1,1,16,1,Organized Crime
+1,65,8,1,2,5,29,1,1,16,0,Organized Crime
+1,64,11,1,3,5,34,1,1,8,1,Organized Crime
+1,84,14,1,3,4,37,1,0,12,0,Organized Crime
+1,67,9,1,3,5,38,1,0,14,0,Organized Crime
+1,54,10,1,3,3,27,1,1,16,0,Organized Crime
+1,55,10,1,2,5,43,0,0,15,0,Organized Crime
+1,69,11,0,3,4,33,0,1,15,0,Organized Crime
+1,79,14,1,3,4,43,1,1,11,0,Organized Crime
+1,83,12,1,3,3,49,0,0,17,1,Organized Crime
+1,72,8,1,3,6,42,0,1,14,0,Organized Crime
+1,63,8,1,2,4,34,1,1,17,1,Organized Crime
+1,88,10,1,2,3,46,0,1,16,0,Organized Crime
+1,68,10,1,3,6,48,1,0,17,1,Organized Crime
+1,61,10,1,2,4,30,1,0,9,1,Organized Crime
+1,62,14,0,3,4,44,1,1,12,0,Organized Crime
+1,65,14,1,3,3,45,1,1,13,0,Organized Crime
+1,80,14,0,3,6,44,1,1,15,0,Organized Crime
+1,57,10,1,2,3,29,1,1,16,1,Organized Crime
+1,59,10,1,2,4,28,1,0,13,1,Organized Crime
+1,63,9,1,3,5,35,1,1,18,1,Organized Crime
+1,59,12,1,2,6,26,0,1,15,1,Organized Crime
+1,59,14,1,2,3,33,1,1,9,0,Organized Crime
+1,71,10,1,2,3,25,0,0,17,0,Organized Crime
+1,69,13,1,3,6,47,1,1,8,1,Organized Crime
+1,83,8,1,3,3,28,1,1,13,1,Organized Crime
+1,76,10,1,2,3,33,0,1,19,1,Organized Crime
+1,69,11,1,3,3,38,1,1,14,0,Organized Crime
+1,72,9,1,3,5,49,1,0,12,1,Organized Crime
+1,56,8,0,2,6,32,1,0,15,1,Organized Crime
+1,73,8,0,3,3,37,1,1,19,1,Organized Crime
+1,50,13,1,3,3,37,1,0,12,1,Organized Crime
+1,77,9,1,2,3,38,1,1,11,0,Organized Crime
+1,69,14,1,2,3,33,0,1,13,1,Organized Crime
+1,81,12,1,3,5,38,1,1,11,1,Organized Crime
+1,67,10,1,3,5,32,1,1,13,1,Organized Crime
+1,77,8,1,2,4,49,1,1,13,0,Organized Crime
+1,77,13,0,3,4,32,1,0,8,1,Organized Crime
+1,80,12,1,2,3,49,1,1,19,1,Organized Crime
+1,89,12,1,2,5,25,1,1,15,0,Organized Crime
+1,72,14,1,2,3,42,1,1,12,1,Organized Crime
+1,69,9,1,3,4,34,1,1,16,1,Organized Crime
+1,82,13,1,3,3,39,0,1,13,1,Organized Crime
+1,89,9,1,2,5,42,1,0,16,0,Organized Crime
+1,55,10,1,3,5,25,0,0,19,1,Organized Crime
+1,73,12,1,3,6,40,1,1,16,1,Organized Crime
+1,62,12,1,3,4,49,1,1,16,1,Organized Crime
+1,61,14,1,3,3,27,0,1,19,1,Organized Crime
+1,58,8,1,3,4,44,0,1,18,0,Organized Crime
+1,81,8,1,2,4,27,0,1,18,1,Organized Crime
+1,77,14,1,3,3,26,1,1,8,0,Organized Crime
+1,82,9,1,3,4,48,1,1,14,0,Organized Crime
+1,87,9,1,2,6,37,1,1,12,0,Organized Crime
+1,77,10,1,3,3,46,0,1,14,1,Organized Crime
+1,76,8,1,2,6,31,0,0,9,0,Organized Crime
+1,69,12,1,3,3,39,1,1,9,1,Organized Crime
+1,50,9,1,3,3,43,1,1,9,1,Organized Crime
+1,72,9,1,2,5,33,1,0,8,1,Organized Crime
+1,83,13,1,3,3,41,0,0,18,1,Organized Crime
+1,73,8,1,3,4,29,0,1,18,1,Organized Crime
+1,84,13,1,3,4,33,0,1,15,0,Organized Crime
+1,69,13,1,3,3,35,0,1,19,0,Organized Crime
+1,71,9,1,3,6,36,0,1,9,0,Organized Crime
+1,62,9,0,2,4,39,1,1,14,1,Organized Crime
+1,67,8,1,3,6,40,1,1,13,0,Organized Crime
+1,72,12,1,3,3,42,1,1,8,1,Organized Crime
+1,83,9,1,3,4,30,1,1,15,0,Organized Crime
+1,56,10,1,2,6,35,0,1,13,0,Organized Crime
+1,72,13,1,3,4,25,1,1,19,0,Organized Crime
+1,81,11,1,3,4,44,0,0,9,0,Organized Crime
+1,61,8,1,2,6,26,1,1,14,0,Organized Crime
+1,85,9,1,3,3,40,1,1,16,1,Organized Crime
+1,65,13,1,3,4,48,0,0,13,1,Organized Crime
+1,67,14,1,3,6,38,1,0,14,0,Organized Crime
+1,66,11,0,2,3,43,1,1,13,1,Organized Crime
+1,75,14,1,3,4,39,0,1,16,1,Organized Crime
+1,64,14,0,2,5,38,1,1,11,0,Organized Crime
+1,50,9,1,2,3,39,0,1,9,1,Organized Crime
+1,78,12,1,3,6,25,1,1,8,0,Organized Crime
+1,72,10,1,2,6,28,1,1,8,0,Organized Crime
+1,88,10,1,3,4,43,1,0,17,1,Organized Crime
+1,52,14,0,3,6,36,1,1,11,1,Organized Crime
+1,65,11,1,2,4,28,0,1,19,0,Organized Crime
+1,89,12,1,3,6,31,0,0,13,0,Organized Crime
+1,56,8,1,2,6,38,1,1,13,1,Organized Crime
+1,70,10,1,3,3,36,1,1,12,1,Organized Crime
+1,89,9,0,3,4,44,0,0,18,0,Organized Crime
+1,61,8,1,2,5,31,1,0,13,0,Organized Crime
+1,57,9,1,2,3,39,1,1,15,1,Organized Crime
+1,63,10,1,3,5,38,1,1,12,0,Organized Crime
+1,88,12,1,2,5,31,1,1,15,1,Organized Crime
+1,52,12,1,2,6,44,1,1,15,0,Organized Crime
+1,71,13,1,3,5,40,0,1,16,1,Organized Crime
+1,76,13,1,3,4,29,0,1,18,0,Organized Crime
+1,50,12,1,2,3,49,1,1,19,0,Organized Crime
+1,51,12,1,3,4,45,0,1,15,0,Organized Crime
+1,79,9,1,3,4,48,1,1,11,0,Organized Crime
+1,53,10,1,3,5,48,0,1,11,1,Organized Crime
+1,55,10,1,3,3,35,1,1,16,1,Organized Crime
+1,87,11,1,3,5,29,0,0,10,0,Organized Crime
+1,61,8,1,3,3,32,0,1,13,1,Organized Crime
+1,84,11,1,3,5,33,1,1,19,1,Organized Crime
+1,57,14,1,2,6,42,1,0,17,1,Organized Crime
+1,85,9,1,2,5,41,0,1,14,1,Organized Crime
+1,82,9,1,2,6,30,1,1,13,0,Organized Crime
+1,59,10,1,3,5,47,1,1,10,1,Organized Crime
+1,80,8,1,3,6,49,0,1,14,1,Organized Crime
+1,78,12,0,3,5,30,1,0,10,0,Organized Crime
+1,58,9,1,2,3,37,1,1,11,1,Organized Crime
+1,72,11,1,3,3,48,1,1,16,1,Organized Crime
+1,83,8,1,2,5,49,0,1,8,0,Organized Crime
+1,86,13,1,3,3,42,1,1,18,0,Organized Crime
+1,56,14,1,2,5,29,0,1,10,1,Organized Crime
+1,77,11,0,3,5,44,0,0,9,1,Organized Crime
+1,67,10,1,3,6,46,1,0,14,0,Organized Crime
+1,59,11,1,3,3,45,0,1,16,1,Organized Crime
+1,86,13,1,3,4,37,1,1,9,0,Organized Crime
+1,64,8,1,2,6,32,0,1,9,0,Organized Crime
+1,66,12,1,3,6,38,0,1,9,1,Organized Crime
+1,78,9,1,3,4,35,0,0,16,0,Organized Crime
+1,52,13,1,2,5,45,0,1,16,1,Organized Crime
+1,50,10,1,3,5,41,0,1,14,0,Organized Crime
+1,57,9,1,2,5,31,1,1,18,1,Organized Crime
+1,68,9,1,3,6,37,0,1,19,1,Organized Crime
+1,84,13,1,2,6,28,1,1,8,0,Organized Crime
+1,67,9,1,3,4,45,1,0,10,0,Organized Crime
+1,65,12,1,2,3,25,1,0,18,1,Organized Crime
+1,68,11,1,2,3,45,1,1,18,0,Organized Crime
+1,54,13,1,2,4,27,1,0,19,0,Organized Crime
+1,81,10,0,2,5,32,0,0,13,1,Organized Crime
+1,71,11,1,2,5,29,1,1,15,1,Organized Crime
+1,83,14,1,3,6,30,1,1,10,1,Organized Crime
+1,76,12,1,2,6,25,0,1,19,1,Organized Crime
+1,61,10,1,2,3,43,0,1,18,0,Organized Crime
+1,81,13,1,2,4,39,1,1,17,1,Organized Crime
+1,51,12,1,2,4,31,1,1,11,0,Organized Crime
+1,68,12,1,3,5,45,1,1,11,0,Organized Crime
+1,87,14,1,3,5,49,1,1,11,0,Organized Crime
+1,68,13,1,2,5,27,1,1,18,0,Organized Crime
+1,89,14,1,2,5,30,1,1,11,1,Organized Crime
+1,65,13,1,3,6,27,0,1,16,1,Organized Crime
+1,66,13,1,2,5,36,1,1,15,1,Organized Crime
+1,87,13,1,2,4,42,1,1,19,1,Organized Crime
+1,89,13,1,3,4,25,0,1,19,0,Organized Crime
+1,75,10,1,2,4,27,1,1,16,1,Organized Crime
+1,54,10,1,2,6,25,1,0,16,1,Organized Crime
+1,80,13,1,3,3,39,1,0,10,1,Organized Crime
+1,80,14,1,2,5,40,0,0,9,1,Organized Crime
+1,78,12,1,3,6,45,1,0,9,0,Organized Crime
+1,59,10,1,2,5,41,0,1,9,1,Organized Crime
+1,53,8,1,3,6,31,1,1,11,1,Organized Crime
+1,56,14,1,3,6,37,1,1,14,1,Organized Crime
+1,57,14,1,2,4,30,1,1,9,1,Organized Crime
+1,72,12,1,2,3,49,0,1,15,1,Organized Crime
+1,60,9,1,3,5,39,1,0,16,1,Organized Crime
+1,55,10,1,3,4,32,1,1,11,1,Organized Crime
+1,71,14,1,2,3,37,1,0,8,0,Organized Crime
+1,60,10,1,2,3,44,0,1,9,1,Organized Crime
+1,50,13,1,3,4,33,0,1,15,0,Organized Crime
+1,52,14,1,3,3,36,0,0,13,0,Organized Crime
+1,73,13,1,3,6,26,1,1,10,1,Organized Crime
+1,76,8,1,2,5,38,1,0,12,1,Organized Crime
+1,88,11,1,3,6,47,1,1,11,1,Organized Crime
+1,68,11,1,3,5,34,0,1,11,1,Organized Crime
+1,58,13,1,2,5,32,0,1,12,0,Organized Crime
+1,79,9,1,2,6,46,0,0,18,1,Organized Crime
+1,86,14,1,3,6,42,0,0,13,1,Organized Crime
+1,60,13,1,2,4,44,0,1,13,1,Organized Crime
+1,64,10,1,2,3,45,1,0,10,0,Organized Crime
+1,54,9,1,2,4,27,1,0,8,1,Organized Crime
+1,72,10,1,2,3,32,1,1,11,0,Organized Crime
+1,80,8,1,2,3,36,0,1,13,1,Organized Crime
+1,75,14,1,2,5,47,0,0,14,1,Organized Crime
+1,70,12,1,2,4,28,0,1,19,0,Organized Crime
+1,58,10,1,2,4,39,1,1,8,1,Organized Crime
+1,52,10,1,3,3,40,1,1,17,0,Organized Crime
+1,53,9,0,2,6,25,1,1,15,0,Organized Crime
+1,81,10,1,2,5,40,1,1,18,0,Organized Crime
+1,57,13,0,2,5,36,1,1,14,0,Organized Crime
+1,71,10,1,2,3,40,0,1,17,1,Organized Crime
+1,85,8,1,3,4,44,1,1,8,1,Organized Crime
+1,80,8,0,2,4,27,0,1,18,0,Organized Crime
+1,74,12,1,3,3,26,1,1,14,1,Organized Crime
+1,78,10,1,3,3,44,1,0,12,0,Organized Crime
+1,81,12,1,3,3,49,1,0,8,0,Organized Crime
+1,69,10,1,2,4,38,1,1,11,1,Organized Crime
+1,80,8,1,3,5,36,0,1,17,0,Organized Crime
+1,62,13,1,2,6,45,1,1,18,1,Organized Crime
+1,79,13,1,2,4,33,0,1,17,0,Organized Crime
+1,76,14,1,3,6,25,1,1,13,0,Organized Crime
+1,67,11,1,3,4,46,1,0,14,0,Organized Crime
+1,40,11,0,2,4,33,0,1,7,1,Hacktivist
+1,54,5,0,1,2,29,1,0,5,0,Hacktivist
+1,56,7,0,1,4,26,1,1,6,1,Hacktivist
+1,68,10,0,1,4,21,0,0,8,1,Hacktivist
+1,51,7,0,1,3,38,0,1,3,0,Hacktivist
+1,63,11,0,2,2,33,0,0,3,0,Hacktivist
+1,59,8,0,1,2,23,0,1,7,1,Hacktivist
+1,40,11,0,2,3,37,0,0,7,0,Hacktivist
+1,47,7,0,1,4,31,0,0,8,1,Hacktivist
+1,65,7,0,2,2,23,0,1,8,0,Hacktivist
+1,46,6,0,1,4,29,1,0,5,0,Hacktivist
+1,45,11,0,1,3,28,0,0,3,0,Hacktivist
+1,67,11,0,2,4,20,0,1,9,0,Hacktivist
+1,58,8,0,1,2,37,0,0,7,0,Hacktivist
+1,53,10,0,1,2,31,1,1,6,1,Hacktivist
+1,68,10,0,2,4,22,1,0,8,0,Hacktivist
+1,44,10,0,2,2,37,1,1,9,0,Hacktivist
+1,59,9,0,1,2,27,0,1,3,0,Hacktivist
+1,59,10,0,1,3,20,0,0,7,1,Hacktivist
+1,40,6,0,2,2,25,1,0,8,1,Hacktivist
+1,48,6,0,2,4,34,0,1,5,0,Hacktivist
+1,45,9,0,1,2,34,1,1,3,1,Hacktivist
+1,44,5,0,2,3,26,0,1,6,1,Hacktivist
+1,43,6,0,2,3,36,0,0,8,0,Hacktivist
+1,46,11,0,1,4,21,0,1,6,1,Hacktivist
+1,50,7,0,1,2,31,0,1,8,0,Hacktivist
+1,59,7,0,2,3,37,0,1,4,1,Hacktivist
+1,51,8,0,2,4,20,1,0,9,1,Hacktivist
+1,53,7,0,2,4,22,0,1,6,0,Hacktivist
+1,40,10,0,2,4,36,0,1,7,1,Hacktivist
+1,69,9,0,1,3,39,0,0,8,0,Hacktivist
+1,64,5,0,2,2,38,0,0,3,1,Hacktivist
+1,58,10,0,1,3,20,1,0,5,1,Hacktivist
+1,55,9,0,2,2,38,0,1,5,0,Hacktivist
+1,43,9,0,2,3,36,0,0,7,1,Hacktivist
+1,56,8,0,2,4,25,1,0,4,1,Hacktivist
+1,42,10,0,2,2,30,1,1,4,1,Hacktivist
+1,55,10,0,2,3,22,1,0,7,0,Hacktivist
+1,57,7,0,1,2,30,1,0,9,1,Hacktivist
+1,62,10,0,2,2,21,0,0,6,0,Hacktivist
+1,57,11,0,2,2,21,0,1,8,0,Hacktivist
+1,53,5,0,1,2,28,1,1,9,0,Hacktivist
+1,48,8,0,2,4,24,1,0,3,0,Hacktivist
+1,42,8,0,2,2,32,1,1,3,0,Hacktivist
+1,51,7,0,1,2,25,0,1,3,0,Hacktivist
+1,41,10,0,2,4,31,0,0,4,1,Hacktivist
+1,56,11,0,1,2,21,0,0,9,1,Hacktivist
+1,42,6,0,2,3,37,1,0,6,0,Hacktivist
+1,69,8,0,2,3,20,0,0,8,1,Hacktivist
+1,62,8,0,1,2,29,1,0,3,0,Hacktivist
+1,57,6,0,2,4,39,0,1,9,0,Hacktivist
+1,62,5,0,1,2,22,1,0,3,1,Hacktivist
+1,44,5,0,2,3,38,1,1,5,1,Hacktivist
+1,60,5,0,2,2,28,0,0,5,1,Hacktivist
+1,58,5,0,2,2,31,1,0,8,0,Hacktivist
+1,43,8,0,1,3,26,0,0,3,1,Hacktivist
+1,42,5,0,2,2,37,1,0,3,1,Hacktivist
+1,54,10,0,1,2,23,1,1,6,1,Hacktivist
+1,68,7,0,2,3,25,0,1,9,1,Hacktivist
+1,54,5,0,1,3,29,0,0,5,1,Hacktivist
+1,62,6,0,2,3,32,0,1,6,1,Hacktivist
+1,43,6,0,2,4,27,1,0,3,1,Hacktivist
+1,64,5,0,1,4,35,1,0,3,0,Hacktivist
+1,55,7,0,2,4,23,0,0,5,0,Hacktivist
+1,46,6,0,2,2,35,0,0,8,0,Hacktivist
+1,45,6,0,1,3,39,1,0,5,1,Hacktivist
+1,43,11,0,2,3,29,1,1,8,0,Hacktivist
+1,48,11,0,1,4,26,1,1,7,1,Hacktivist
+1,67,7,0,1,4,23,0,1,3,0,Hacktivist
+1,51,6,0,2,4,34,0,1,4,1,Hacktivist
+1,65,8,0,2,3,24,0,1,9,0,Hacktivist
+1,55,9,0,2,2,29,0,0,3,1,Hacktivist
+1,63,11,0,1,2,25,0,1,7,0,Hacktivist
+1,67,5,0,1,4,32,0,0,5,1,Hacktivist
+1,49,10,0,2,4,36,1,1,8,1,Hacktivist
+1,42,8,0,1,4,31,0,0,3,1,Hacktivist
+1,57,10,0,1,2,29,1,1,5,0,Hacktivist
+1,61,7,0,2,4,38,1,1,6,0,Hacktivist
+1,67,7,0,2,3,30,0,0,6,1,Hacktivist
+1,57,10,0,1,3,21,0,1,6,0,Hacktivist
+1,65,10,0,1,2,28,1,0,6,1,Hacktivist
+1,46,11,0,2,2,33,0,0,3,0,Hacktivist
+1,44,6,0,1,3,30,0,0,3,1,Hacktivist
+1,47,11,0,2,3,27,0,0,5,1,Hacktivist
+1,52,10,0,2,2,30,0,0,5,0,Hacktivist
+1,54,7,0,2,4,21,1,0,8,0,Hacktivist
+1,59,9,0,2,3,24,1,0,6,1,Hacktivist
+1,48,9,0,1,3,34,1,0,8,0,Hacktivist
+1,61,9,0,2,3,34,0,1,6,1,Hacktivist
+1,64,9,0,2,3,20,0,0,4,1,Hacktivist
+1,40,6,0,2,4,34,1,0,3,0,Hacktivist
+1,64,8,0,2,2,24,0,1,5,0,Hacktivist
+1,55,8,0,2,3,21,0,0,6,1,Hacktivist
+1,63,8,0,1,2,38,1,1,7,0,Hacktivist
+1,65,11,0,2,3,29,0,1,7,1,Hacktivist
+1,55,8,0,2,3,30,1,1,5,1,Hacktivist
+1,58,10,0,1,2,39,0,0,6,0,Hacktivist
+1,48,11,0,1,4,24,1,1,6,1,Hacktivist
+1,63,7,0,1,3,37,0,1,6,1,Hacktivist
+1,40,8,0,2,2,20,1,0,4,1,Hacktivist
+1,55,5,0,1,3,29,1,1,8,1,Hacktivist
+1,53,5,0,2,2,25,0,1,7,0,Hacktivist
+1,41,10,0,1,2,26,0,1,7,0,Hacktivist
+1,63,5,0,2,3,20,0,1,8,0,Hacktivist
+1,41,6,0,1,2,39,0,1,7,0,Hacktivist
+1,53,6,0,2,3,32,1,0,9,1,Hacktivist
+1,54,7,0,2,4,35,0,1,8,0,Hacktivist
+1,52,8,0,1,2,31,0,1,3,0,Hacktivist
+1,56,9,0,1,3,21,1,0,9,0,Hacktivist
+1,58,11,0,1,4,22,1,0,5,1,Hacktivist
+1,46,10,0,2,4,30,0,1,3,0,Hacktivist
+1,47,7,0,2,3,25,1,1,7,1,Hacktivist
+1,64,6,0,1,2,31,0,0,6,1,Hacktivist
+1,48,7,0,2,2,39,1,0,4,0,Hacktivist
+1,67,7,0,1,4,29,1,0,6,0,Hacktivist
+1,48,8,0,2,4,34,0,0,3,0,Hacktivist
+1,48,9,0,2,2,33,1,1,3,1,Hacktivist
+1,52,10,0,1,2,37,1,0,6,0,Hacktivist
+1,55,9,0,1,2,26,0,1,9,0,Hacktivist
+1,63,6,0,2,4,28,0,0,8,0,Hacktivist
+0,47,3,0,0,2,5,0,0,2,1,Benign
+0,25,3,0,0,1,16,0,0,0,0,Benign
+0,32,2,0,1,1,14,0,0,4,1,Benign
+0,20,4,0,0,2,10,0,0,2,0,Benign
+0,34,1,0,1,2,11,0,0,0,1,Benign
+0,41,2,0,1,2,15,0,0,0,0,Benign
+0,45,3,0,0,1,7,0,0,4,0,Benign
+0,20,2,0,1,2,5,0,0,3,0,Benign
+0,39,3,0,0,2,19,0,0,2,1,Benign
+0,49,2,0,1,1,8,0,0,1,0,Benign
+0,20,4,0,1,2,15,0,0,2,1,Benign
+0,46,2,0,1,1,7,0,0,4,1,Benign
+0,40,2,0,0,2,5,0,0,4,0,Benign
+0,33,3,0,0,2,9,0,0,0,0,Benign
+0,30,4,0,0,2,15,0,0,2,0,Benign
+0,40,4,0,1,2,18,0,0,4,0,Benign
+0,28,3,0,1,1,19,0,0,0,0,Benign
+0,49,3,0,1,2,13,0,0,1,0,Benign
+0,35,1,0,1,1,9,0,0,0,0,Benign
+0,23,4,0,1,2,7,0,0,0,1,Benign
+0,32,3,0,0,2,19,0,0,0,0,Benign
+0,28,1,0,0,2,12,0,0,2,0,Benign
+0,49,1,0,0,1,6,0,0,4,0,Benign
+0,39,1,0,0,2,7,0,0,0,0,Benign
+0,26,2,0,0,1,13,0,0,2,0,Benign
+0,36,4,0,1,2,19,0,0,4,0,Benign
+0,23,1,0,0,2,9,0,0,0,0,Benign
+0,37,4,0,1,2,5,0,0,4,0,Benign
+0,39,4,0,0,1,12,0,0,3,1,Benign
+0,40,3,0,0,2,6,0,0,3,0,Benign
+0,27,1,0,1,2,6,0,0,4,0,Benign
+0,22,3,0,0,2,16,0,0,0,0,Benign
+0,42,2,0,1,1,6,0,0,1,0,Benign
+0,34,3,0,0,2,5,0,0,0,1,Benign
+0,39,2,0,1,1,6,0,0,4,1,Benign
+0,30,2,0,0,2,8,0,0,2,0,Benign
+0,31,1,0,0,1,5,0,0,4,1,Benign
+0,46,3,0,1,2,6,0,0,0,0,Benign
+0,21,2,0,1,2,8,0,0,2,1,Benign
+0,32,1,0,1,2,13,0,0,1,0,Benign
+0,45,2,0,1,2,10,0,0,1,1,Benign
+0,34,2,0,0,2,14,0,0,1,1,Benign
+0,45,3,0,1,2,16,0,0,2,0,Benign
+0,35,1,0,0,2,17,0,0,0,1,Benign
+0,26,4,0,0,2,7,0,0,0,1,Benign
+0,46,2,0,1,2,16,0,0,3,1,Benign
+0,27,4,0,0,2,8,0,0,4,0,Benign
+0,24,4,0,1,1,17,0,0,2,1,Benign
+0,40,1,0,1,2,6,0,0,1,0,Benign
+0,26,3,0,0,1,12,0,0,1,1,Benign
+0,28,1,0,0,1,7,0,0,2,1,Benign
+0,41,3,0,0,1,5,0,0,1,0,Benign
+0,24,1,0,1,2,12,0,0,3,0,Benign
+0,22,1,0,0,1,6,0,0,4,0,Benign
+0,38,2,0,0,2,7,0,0,0,1,Benign
+0,29,4,0,1,1,11,0,0,1,1,Benign
+0,25,1,0,1,1,5,0,0,3,0,Benign
+0,25,4,0,0,2,13,0,0,2,1,Benign
+0,21,1,0,0,1,17,0,0,2,1,Benign
+0,31,2,0,0,1,14,0,0,0,0,Benign
+0,35,1,0,0,2,17,0,0,1,1,Benign
+0,33,4,0,1,2,17,0,0,0,0,Benign
+0,33,4,0,1,1,5,0,0,2,1,Benign
+0,29,4,0,0,2,17,0,0,0,1,Benign
+0,41,1,0,1,2,10,0,0,2,1,Benign
+0,27,3,0,1,1,16,0,0,2,1,Benign
+0,33,4,0,1,1,14,0,0,1,1,Benign
+0,35,1,0,0,1,7,0,0,3,0,Benign
+0,28,1,0,0,1,11,0,0,0,1,Benign
+0,27,3,0,0,1,12,0,0,4,1,Benign
+0,46,4,0,0,1,18,0,0,3,0,Benign
+0,44,3,0,0,2,15,0,0,1,0,Benign
+0,22,3,0,0,2,6,0,0,2,0,Benign
+0,36,2,0,0,2,6,0,0,1,0,Benign
+0,36,1,0,1,1,7,0,0,2,1,Benign
+0,21,3,0,1,2,16,0,0,4,1,Benign
+0,45,3,0,1,2,10,0,0,0,1,Benign
+0,39,3,0,0,2,18,0,0,4,0,Benign
+0,49,2,0,1,1,7,0,0,3,1,Benign
+0,48,4,0,0,1,19,0,0,1,0,Benign
+0,25,1,0,0,2,6,0,0,2,0,Benign
+0,32,2,0,0,2,14,0,0,0,1,Benign
+0,45,1,0,0,2,9,0,0,3,1,Benign
+0,42,2,0,0,2,8,0,0,1,0,Benign
+0,22,1,0,0,2,11,0,0,2,0,Benign
+0,35,4,0,1,1,13,0,0,2,0,Benign
+0,23,1,0,1,1,14,0,0,3,0,Benign
+0,38,3,0,1,2,12,0,0,1,0,Benign
+0,23,1,0,1,2,18,0,0,3,0,Benign
+0,41,2,0,0,2,11,0,0,1,0,Benign
+0,20,2,0,0,1,16,0,0,0,1,Benign
+0,41,1,0,0,1,9,0,0,1,0,Benign
+0,43,2,0,0,1,8,0,0,1,0,Benign
+0,41,2,0,1,2,8,0,0,4,0,Benign
+0,24,2,0,1,2,6,0,0,0,0,Benign
+0,48,4,0,1,1,10,0,0,0,0,Benign
+0,22,2,0,1,2,12,0,0,1,1,Benign
+0,37,3,0,1,2,19,0,0,0,0,Benign
+0,48,3,0,0,2,11,0,0,0,1,Benign
+0,25,3,0,0,1,11,0,0,1,0,Benign
+0,44,2,0,1,1,6,0,0,2,0,Benign
+0,34,4,0,1,1,9,0,0,0,0,Benign
+0,37,4,0,1,1,19,0,0,1,1,Benign
+0,41,2,0,1,1,11,0,0,4,1,Benign
+0,25,4,0,0,1,11,0,0,0,1,Benign
+0,36,4,0,1,2,12,0,0,3,1,Benign
+0,28,4,0,0,2,14,0,0,3,1,Benign
+0,21,2,0,0,1,12,0,0,1,1,Benign
+0,32,4,0,0,1,15,0,0,3,0,Benign
+0,22,3,0,0,2,7,0,0,1,0,Benign
+0,29,1,0,1,1,9,0,0,1,1,Benign
+0,26,4,0,0,2,15,0,0,4,0,Benign
+0,49,2,0,0,1,18,0,0,2,0,Benign
+0,27,2,0,1,2,9,0,0,0,1,Benign
+0,46,1,0,1,2,19,0,0,4,1,Benign
+0,22,2,0,0,2,10,0,0,3,1,Benign
+0,21,2,0,0,2,18,0,0,2,0,Benign
+0,42,3,0,0,2,14,0,0,4,0,Benign
+0,39,2,0,0,2,14,0,0,2,1,Benign
+0,47,3,0,1,2,9,0,0,2,1,Benign
+0,33,3,0,1,2,15,0,0,0,1,Benign
+0,41,4,0,0,2,5,0,0,0,1,Benign
+0,41,1,0,1,2,11,0,0,4,0,Benign
+0,25,2,0,1,1,10,0,0,4,0,Benign
+0,43,4,0,0,2,18,0,0,1,1,Benign
+0,30,1,0,1,2,14,0,0,3,0,Benign
+0,27,2,0,1,2,7,0,0,0,0,Benign
+0,28,2,0,1,2,11,0,0,3,1,Benign
+0,45,1,0,1,1,5,0,0,2,0,Benign
+0,25,1,0,0,2,7,0,0,0,0,Benign
+0,44,2,0,1,1,9,0,0,4,1,Benign
+0,49,2,0,1,2,17,0,0,0,1,Benign
+0,45,2,0,0,2,13,0,0,4,1,Benign
+0,46,1,0,0,1,13,0,0,1,1,Benign
+0,49,3,0,1,1,10,0,0,0,0,Benign
+0,33,1,0,0,2,13,0,0,3,0,Benign
+0,49,3,0,0,1,11,0,0,4,0,Benign
+0,20,2,0,0,1,13,0,0,1,1,Benign
+0,29,2,0,1,2,15,0,0,3,0,Benign
+0,40,1,0,1,2,14,0,0,3,0,Benign
+0,23,3,0,0,2,7,0,0,0,1,Benign
+0,26,4,0,0,1,17,0,0,4,1,Benign
+0,21,2,0,1,1,12,0,0,0,1,Benign
+0,35,4,0,1,1,10,0,0,3,0,Benign
+0,28,4,0,1,2,18,0,0,2,0,Benign
+0,34,4,0,0,2,8,0,0,1,1,Benign
+0,40,1,0,0,2,6,0,0,0,0,Benign
+0,35,3,0,1,1,18,0,0,2,1,Benign
+0,49,1,0,1,2,16,0,0,4,1,Benign
+0,36,4,0,1,2,15,0,0,4,1,Benign
+0,33,1,0,0,1,13,0,0,4,1,Benign
+0,26,2,0,0,1,11,0,0,1,1,Benign
+0,49,2,0,0,1,16,0,0,4,0,Benign
+0,31,3,0,0,1,13,0,0,1,0,Benign
+0,23,3,0,1,2,15,0,0,0,1,Benign
+0,40,1,0,1,1,15,0,0,0,1,Benign
+0,47,4,0,1,1,13,0,0,4,0,Benign
+0,23,2,0,0,1,18,0,0,1,0,Benign
+0,33,1,0,0,1,9,0,0,3,0,Benign
+0,48,1,0,0,2,12,0,0,4,0,Benign
